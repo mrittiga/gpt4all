@@ -1,32 +1,5 @@
 <h1 align="center">GPT4All</h1>
 
-<p align="center">
-  Now with support for DeepSeek R1 Distillations
-</p>
-
-<p align="center">
-  <a href="https://www.nomic.ai/gpt4all">Website</a> &bull; <a href="https://docs.gpt4all.io">Documentation</a> &bull; <a href="https://discord.gg/mGZE39AS3e">Discord</a> &bull; <a href="https://www.youtube.com/watch?v=gQcZDXRVJok">YouTube Tutorial</a>
-</p>
-
-<p align="center">
-  GPT4All runs large language models (LLMs) privately on everyday desktops & laptops.
-</p>
-<p align="center">
-  No API calls or GPUs required - you can just download the application and <a href="https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart">get started</a>.
-</p>
-
-<p align="center">
-  Read about what's new in <a href="https://www.nomic.ai/blog/tag/gpt4all">our blog</a>.
-</p>
-<p align="center">
-  <a href="https://nomic.ai/gpt4all/#newsletter-form">Subscribe to the newsletter</a>
-</p>
-
-https://github.com/nomic-ai/gpt4all/assets/70534565/513a0f15-4964-4109-89e4-4f9a9011f311
-
-<p align="center">
-GPT4All is made possible by our compute partner <a href="https://www.paperspace.com/">Paperspace</a>.
-</p>
 
 ## Download Links
 
